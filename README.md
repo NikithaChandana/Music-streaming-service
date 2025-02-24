@@ -4,10 +4,10 @@
 This project aims to design and implement a **Database Management System (DBMS) for a Music Streaming Service**. The system efficiently manages user profiles, tracks, streaming history, and payment transactions while enabling robust data analysis for business and user insights.
 
 ## Team Members:
-- Nikitha Chandana Prathyusha
-- Murala Shashank
-- Guda Vishnu
-- Charugundla
+- Nikitha Chandana 
+- Prathyusha Murala 
+- Shashank Guda 
+- Vishnu Charugundla
 
 ## Problem Statement
 Our goal is to develop a scalable and efficient DBMS that addresses the following challenges:
